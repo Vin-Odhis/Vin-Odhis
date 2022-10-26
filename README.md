@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent
-- 👀 I’m interested in building interest areas
+- 👀 I’m interested in listening to music & travelling.
 - 🌱 I’m currently learning software engineering at ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at email: vinodhiambo96@gmail.com
