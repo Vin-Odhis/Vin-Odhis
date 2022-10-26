@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vin-Odhis
-- 👀 I’m interested to become a software engineer
-- 🌱 I’m currently learning nursing and software engineering at ALX
+- 👋 Hi, I’m Vincent
+- 👀 I’m interested in building interest areas
+- 🌱 I’m currently learning software engineering at ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at email: vinodhiambo96@gmail.com
 
