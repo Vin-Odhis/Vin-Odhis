@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Vincent
-- 👀 I’m interested in listening to music & travelling.
-- 🌱 I’m currently learning software engineering at ALX
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at email: vinodhiambo96@gmail.com
-
-<!---
-Vin-Odhis/Vin-Odhis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF727&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%96%90%2C+I+am+Vincent+Odhiambo.;Welcome+to+my+profile!;To+more+years+of+programming+experience.;Always+learning+new+things;tech+enthusiast;Alx+community+member.)](https://git.io/typing-svg)
