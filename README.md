@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/110998416/210606435-b59d0ec8-bc8d-4b2d-a78b-f609d477bd38.png)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F766&background=1A1A1A00&vCenter=true&width=435&lines=Hi+there+%F0%9F%96%90%2C+I+am+Vincent+Odhiambo.;Welcome+to+my+profile!;Always+learning+new+things.;ALX+community+member." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F766&background=1A1A1A00&vCenter=true&width=435&lines=+Hi+👋+ I'm+Vincent+Odhiambo.;Welcome+to+my+profile!;🔭 I’m currently a student in the ALX SE Program;👯 I’m looking to collaborate on any project that involves c, python, Bash scripting, Linux system admin as those are the knowledge i have as of now;💬 Ask me about c, Python, Javascript, SQL, BASH Scripting, Web Servers (Nginx, Apache).;📫 You can reach me via vinodhiambo@96@gmail.com.;⚡ Fun fact: ...doing hard things isn't really difficult if only you stay determined." alt="Typing SVG" /></a>
 
 
 
