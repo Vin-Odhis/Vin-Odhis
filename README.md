@@ -6,11 +6,11 @@
 
 
 
-📫 How to Reach me:
 
 
 
 
-If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.
+
+
 
 ![image](https://user-images.githubusercontent.com/110998416/210607742-149bf66c-32df-4647-99ee-700381fc4a58.png)
